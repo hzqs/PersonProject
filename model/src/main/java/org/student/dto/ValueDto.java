@@ -1,8 +1,5 @@
 package org.student.dto;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 public class ValueDto {
 
     private int statusCode = 200;

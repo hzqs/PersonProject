@@ -5,9 +5,6 @@ import org.aten.mvc.execution.HandlerExecutionChain;
 import org.aten.mvc.interceptor.Filter;
 import org.student.dao.SQLExecutorContext;
 
-/**
- * Create by lorenzo on 17-12-29.
- */
 @Intervention("/")
 public class SQLExecutorFilter extends Filter{
 

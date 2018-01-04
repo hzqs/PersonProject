@@ -3,10 +3,7 @@ package org.student.model;
 import org.aten.db.ann.MyTable;
 import org.aten.db.ann.TableId;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
-@MyTable("CLASS_INFO")
+@MyTable("PerClass")
 public class Clazz {
 
     @TableId

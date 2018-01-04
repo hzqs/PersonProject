@@ -13,9 +13,6 @@ import org.student.controller.BasicAction;
 import org.student.model.Student;
 import org.student.service.LoginService;
 
-/**
- * Create by lorenzo on 17-12-29.
- */
 @Component
 @Scope("prototype")
 public class LoginAction extends BasicAction {

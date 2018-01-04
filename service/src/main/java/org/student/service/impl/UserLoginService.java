@@ -7,9 +7,6 @@ import org.student.exception.LoginException;
 import org.student.model.Student;
 import org.student.service.LoginService;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 @Component
 public class UserLoginService implements LoginService<Student>{
 

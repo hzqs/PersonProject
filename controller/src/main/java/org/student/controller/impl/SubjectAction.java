@@ -14,9 +14,7 @@ import org.student.service.BeanQueryService;
 
 import java.util.List;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
+
 @Component
 @Scope("prototype")
 @RequestMapping("/subject")

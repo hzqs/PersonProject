@@ -17,9 +17,6 @@ import org.student.service.LoginService;
 
 import java.util.List;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 @Component
 @Scope("prototype")
 @RequestMapping("/student")

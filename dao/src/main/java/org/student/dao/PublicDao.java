@@ -4,9 +4,6 @@ import org.aten.db.helper.SQLExecutor;
 import org.aten.db.tool.impl.MySqlTableBuilder;
 import org.student.util.DBConn;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 public class PublicDao {
 
     protected SQLExecutor getCurrentSqlExecutor(){

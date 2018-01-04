@@ -11,9 +11,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.UnsupportedEncodingException;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 @Intervention("/")
 public class FontFilter extends Filter{
 

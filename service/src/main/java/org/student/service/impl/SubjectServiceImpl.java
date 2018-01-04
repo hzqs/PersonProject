@@ -11,9 +11,6 @@ import org.student.service.BeanQueryService;
 
 import java.util.List;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 @Component("subjectService")
 public class SubjectServiceImpl implements BasicService<Subject>,BeanQueryService<Subject>{
 

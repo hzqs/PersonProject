@@ -3,9 +3,6 @@ package org.student.dao;
 import org.aten.db.helper.SQLExecutor;
 import org.student.util.DBConn;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
 public class SQLExecutorContext {
 
     private static final ThreadLocal<SQLExecutor> local = new ThreadLocal<>();

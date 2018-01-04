@@ -2,10 +2,7 @@ package org.student.model;
 
 import org.aten.db.ann.MyTable;
 
-/**
- * Create by lorenzo on 17-12-28.
- */
-@MyTable("Stu")
+@MyTable("PerStu")
 public class Student {
 
     private int stuId;
